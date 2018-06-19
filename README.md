@@ -1,2 +1,2 @@
 # solidity
-First stes in Solidity to learn language. 
+First steps in Solidity to learn language. 
